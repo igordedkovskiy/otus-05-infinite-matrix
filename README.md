@@ -1,1 +1,1 @@
-# homework-05: otus-infinite-matrix
+# otus homework #5 - infinite-matrix
